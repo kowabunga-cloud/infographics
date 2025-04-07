@@ -1,2 +1,5 @@
-# infographics
-Collection of Kowabunga project infographics and art
+# Kowabunga Infographics
+
+This is a collection of various infographics and art for the Kowabunga project and associated components.
+
+All sources are provided in [Affinity Designer](https://affinity.serif.com/fr/designer/) format.
